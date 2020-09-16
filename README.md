@@ -1,4 +1,4 @@
-## Love, Bonito Magento Frontend Developer
+## Love, Bonito VueJS Frontend Developer
  
  
 If you are here, it means that you want to work at Love, Bonito. 
